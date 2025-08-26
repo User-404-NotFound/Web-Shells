@@ -2,7 +2,7 @@
 
 > **Disclaimer**  
 > This repository is currently under construction. The content is being updated and expanded. New file extensions and detailed descriptions will be added soon. Stay tuned for more additions. Happy hacking!
-> This repository could be used with .php4, .php5, .hphp, .hphp, ..wsdl.php, .phar, .phb extensions and more. 
+> This repository could be used with .php4, .php5, .hphp, .hphp, .wsdl.php, .phar, .phb extensions and more. 
 
 Currently this document outlines the usage of various PHP file extensions commonly used for web shells and their potential to be exploited for Remote Code Execution (RCE).
 
